@@ -1,7 +1,7 @@
 Type: Package
 Package: dataproc.iquizoo
 Title: Utility Functions for Data Processing of Iquizoo Games
-Version: 0.2.4
+Version: 0.2.4.9000
 Authors@R:
     person(given = "Liang",
            family = "Zhang",

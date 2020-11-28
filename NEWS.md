@@ -1,3 +1,7 @@
+# dataproc.iquizoo (development version)
+
+* Add `calculate()` to calculate indices based on given data.
+
 # dataproc.iquizoo 0.2.4
 
 * Just as `complexswitch()`, now `switchcost()` will also return abnormal result (all `NA`s) if at least one block has no responses.
